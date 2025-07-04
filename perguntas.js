@@ -7,13 +7,13 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Quais países formavam o Eixo na segunda guerra mundial?'
+    'Quais países formavam o Eixo na segunda guerra mundial?',
     'Os países foram: Alemanha, Itália e japão'
 )
 
 
 criaCartao(
-    'História'
+    'História',
     'Quais países formavam os aliados?',
     'Os países foram: Estados Unidos, Reino Unido e União Soviética'
 )
@@ -48,14 +48,14 @@ criaCartao(
 
 
 criaCartao(
-    'História'
+    'História',
     'Quais foram as consequências da segunda guerra mundial?',
     'As consequências foram a criação da ONU, a divisão da Alemanha, o início da Guerra Fria e a descolonização de vários países africanos e asiáticos.'
 )
 
 
 criaCartao(
-    'História'
+    'História',
     'Quanto tempo durou a segunda guerra mundial?',
     'Durou de 1939 a 1945, totalizando seis anos.'
 )
